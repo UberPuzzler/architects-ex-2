@@ -305,7 +305,7 @@
       {
         "any_of": [
           {
-            "file": "car/pages/comprehensive.aspx.txt",
+            "file": "car/pages/comprehensive.txt",
             "page": null
           }
         ]
